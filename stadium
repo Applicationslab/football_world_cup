@@ -1,0 +1,49 @@
+[{
+		"Capacity": "Capacity: 80,000",
+		"location": "Location: Lusail",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Lusail_Iconic_Stadium_final_render.jpg/200px-Lusail_Iconic_Stadium_final_render.jpg",
+		"name": "Lusail Iconic Stadium"
+	},
+	{
+		"Capacity": "Capacity: 60,000",
+		"location": "Location: Al Khor",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Al_Bayt_Stadium_02_crop.jpg/200px-Al_Bayt_Stadium_02_crop.jpg",
+		"name": "Al Bayt Stadium"
+	},
+	{
+		"Capacity": "Capacity: 40,000",
+		"location": "Location: Doha",
+		"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/CG_rendering_of_Ras_Abu_Aboud_Stadium_crop.jpg/200px-CG_rendering_of_Ras_Abu_Aboud_Stadium_crop.jpg",
+		"name": "Ras Abu Aboud Stadium"
+	},
+	{
+		"Capacity": "Capacity: 40,000",
+		"location": "Location: Doha",
+		"logo": "https://as01.epimg.net/futbol/imagenes/2020/11/16/mundial/1605522208_366331_1605522272_noticia_normal_recorte1.jpg",
+		"name": "Al Thumama Stadium"
+	},
+	{
+		"Capacity": "Capacity: 45,350",
+		"location": "Location: Al Rayyan",
+		"logo": "https://images.daznservices.com/di/library/GOAL/57/95/education-city-stadium_uyc6oxsm7ns01icueyzdud2vh.jpg",
+		"name": "Education City Stadium"
+	},
+	{
+		"Capacity": "Capacity: 44,740",
+		"location": "Location: Al Rayyan",
+		"logo": "https://images.daznservices.com/di/library/GOAL/60/30/ahmad-bin-ali-stadium-al-rayyan_zp5llr09fn8s1re00ucsi97n3.jpeg?t=1996832606&w=1200&h=673",
+		"name": "Ahmed bin Ali Stadium"
+	},
+	{
+		"Capacity": "Capacity: 40,000",
+		"location": "Location: Al Rayyan",
+		"logo": "https://i.ytimg.com/vi/fe_f581Fweo/maxresdefault.jpg",
+		"name": "Khalifa International Stadium"
+	},
+	{
+		"Capacity": "Capacity: 40,000",
+		"location": "Location: Al Wakrah",
+		"logo": "https://ss.thgim.com/football/article27157782.ece/alternates/FREE_355/Al-Janoub-Stadium-in-Al-Wakrah-City-22jpg",
+		"name": "Al Janoub Stadium"
+	}
+]
