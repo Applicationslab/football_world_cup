@@ -1,0 +1,841 @@
+[{
+		"teamName": "Afghanistan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AFG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Albania",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ALB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Algeria",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ALG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "American Samoa",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ASA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Andorra",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AND?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Angola",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ANG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Anguilla",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AIA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Antigua and Barbuda",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ATG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Argentina",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ARG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Armenia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ARM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Aruba",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ARU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Australia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AUS?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Austria",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AUT?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Azerbaijan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/AZE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bahamas",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BAH?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bahrain",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BHR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bangladesh",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BAN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Barbados",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BRB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Belarus",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BLR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Belgium",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BEL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Belize",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BLZ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Benin",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BEN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bermuda",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BER?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bhutan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BHU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bolivia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BOL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bosnia and Herzegovina",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BIH?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Botswana",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BOT?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Brazil",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BRA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "British Virgin Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/VGB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Brunei Darussalam",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BRU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Bulgaria",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BUL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Burkina Faso",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BFA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Burundi",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/BDI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cabo Verde",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CPV?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cambodia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CAM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cameroon",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CMR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Canada",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CAN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cayman Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CAY?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Central African Republic",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CTA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Chad",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CHA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Chile",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CHI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "China PR",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CHN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Chinese Taipei",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TPE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Colombia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/COL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Comoros",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/COM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Congo",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CGO?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Congo DR",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/COD?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cook Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/COK?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Costa Rica",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CRC?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Croatia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CRO?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cuba",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CUB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Curaçao",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CUW?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Cyprus",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CYP?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Czech Republic",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CZE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Côte d'Ivoire",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/CIV?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Denmark",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/DEN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Djibouti",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/DJI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Dominica",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/DMA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Dominican Republic",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/DOM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Ecuador",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ECU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Egypt",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/EGY?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "El Salvador",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SLV?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "England",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ENG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Equatorial Guinea",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/EQG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Eritrea",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ERI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Estonia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/EST?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Eswatini",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SWZ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Ethiopia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ETH?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Faroe Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/FRO?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Fiji",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/FIJ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Finland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/FIN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "France",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/FRA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Gabon",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GAB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Gambia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GAM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Georgia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GEO?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Germany",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GER?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Ghana",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GHA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Gibraltar",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GIB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Greece",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GRE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Grenada",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GRN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Guam",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GUM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Guatemala",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GUA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Guinea",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GUI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Guinea-Bissau",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GNB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Guyana",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/GUY?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Haiti",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/HAI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Honduras",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/HON?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Hong Kong",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/HKG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Hungary",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/HUN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "IR Iran",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IRN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Iceland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ISL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "India",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IND?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Indonesia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IDN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Iraq",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IRQ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Israel",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ISR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Italy",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ITA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Jamaica",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/JAM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Japan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/JPN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Jordan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/JOR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Kazakhstan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KAZ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Kenya",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KEN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Korea DPR",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PRK?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Korea Republic",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KOR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Kosovo",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KVX?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Kuwait",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KUW?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Kyrgyz Republic",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KGZ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Laos",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LAO?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Latvia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LVA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Lebanon",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LBN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Lesotho",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LES?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Liberia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LBR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Libya",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LBY?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Liechtenstein",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LIE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Lithuania",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LTU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Luxembourg",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/LUX?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Macau",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MAC?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Madagascar",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MAD?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Malawi",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MWI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Malaysia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MAS?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Maldives",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MDV?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Mali",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MLI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Malta",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MLT?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Mauritania",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MTN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Mauritius",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MRI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Mexico",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MEX?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Moldova",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MDA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Mongolia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MNG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Montenegro",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MNE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Montserrat",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MSR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Morocco",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MAR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Mozambique",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MOZ?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Myanmar",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MYA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Namibia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NAM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Nepal",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NEP?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Netherlands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NED?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "New Caledonia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NCL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "New Zealand",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NZL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Nicaragua",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NCA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Niger",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NIG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Nigeria",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NGA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "North Macedonia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/MKD?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Northern Ireland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NIR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Norway",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/NOR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Oman",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/OMA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Pakistan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PAK?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Palestine",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PLE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Panama",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PAN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Papua New Guinea",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PNG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Paraguay",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PAR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Peru",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PER?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Philippines",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PHI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Poland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/POL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Portugal",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/POR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Puerto Rico",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/PUR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Qatar",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/QAT?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Republic of Ireland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/IRL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Romania",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ROU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Russia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/RUS?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Rwanda",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/RWA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Samoa",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SAM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "San Marino",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SMR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Saudi Arabia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/KSA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Scotland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SCO?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Senegal",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SEN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Serbia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SRB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Seychelles",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SEY?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Sierra Leone",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SLE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Singapore",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SIN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Slovakia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SVK?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Slovenia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SVN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Solomon Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SOL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Somalia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SOM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "South Africa",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/RSA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "South Sudan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SSD?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Spain",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ESP?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Sri Lanka",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SRI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "St. Kitts and Nevis",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SKN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "St. Vincent / Grenadines",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/VIN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Sudan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SDN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Suriname",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SUR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Sweden",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SWE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Switzerland",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SUI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Syria",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/SYR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "São Tomé and Príncipe",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/STP?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Tahiti",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TAH?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Tajikistan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TJK?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Tanzania",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TAN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Thailand",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/THA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Timor-Leste",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TLS?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Togo",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TOG?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Tonga",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TGA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Trinidad and Tobago",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TRI?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Tunisia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TUN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Turkey",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TUR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Turkmenistan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TKM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Turks and Caicos Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/TCA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "US Virgin Islands",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/VIR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "USA",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/USA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Uganda",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/UGA?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Ukraine",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/UKR?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "United Arab Emirates",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/UAE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Uruguay",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/URU?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Uzbekistan",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/UZB?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Vanuatu",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/VAN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Venezuela",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/VEN?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Vietnam",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/VIE?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Wales",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/WAL?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Yemen",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/YEM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Zambia",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ZAM?tx=c_fill,g_auto,q_auto,w_70"
+	},
+	{
+		"teamName": "Zimbabwe",
+		"logo": "https://cloudinary.fifa.com/api/v1/picture/flags-sq-2/ZIM?tx=c_fill,g_auto,q_auto,w_70"
+	}
+]
