@@ -8,72 +8,72 @@
 		"name": "Germany",
 		"winners": "4",
 		"runnersUp": "4",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/384px-Flag_of_Germany.svg.png"
 	},
 	{
 		"name": "Italy",
 		"winners": "4",
 		"runnersUp": "2",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/384px-Flag_of_Italy.svg.png"
 	},
 	{
 		"name": "Argentina",
 		"winners": "2",
 		"runnersUp": "3",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/384px-Flag_of_Argentina.svg.png"
 	},
 	{
 		"name": "France",
 		"winners": "2",
 		"runnersUp": "1",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/384px-Flag_of_France.svg.png"
 	},
 	{
 		"name": "Uruguay",
 		"winners": "2",
 		"runnersUp": "0",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/23px-Flag_of_Uruguay.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/384px-Flag_of_Uruguay.svg.png"
 	},
 	{
 		"name": "Spain",
 		"winners": "1",
 		"runnersUp": "0",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/23px-Flag_of_Spain.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/384px-Flag_of_Spain.svg.png"
 	},
 	{
 		"name": "England",
 		"winners": "1",
 		"runnersUp": "0",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/23px-Flag_of_England.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/384px-Flag_of_England.svg.png"
 	},
 	{
 		"name": "Netherlands",
 		"winners": "0",
 		"runnersUp": "3",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/23px-Flag_of_the_Netherlands.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/384px-Flag_of_the_Netherlands.svg.png"
 	},
 	{
 		"name": "Czechoslovakia",
 		"winners": "0",
 		"runnersUp": "2",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/384px-Flag_of_the_Czech_Republic.svg.png"
 	},
 	{
 		"name": "Hungary",
 		"winners": "0",
 		"runnersUp": "2",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Hungary_%281949-1956%3B_1-2_aspect_ratio%29.svg/23px-Flag_of_Hungary_%281949-1956%3B_1-2_aspect_ratio%29.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Hungary_%281949-1956%3B_1-2_aspect_ratio%29.svg/384px-Flag_of_Hungary_%281949-1956%3B_1-2_aspect_ratio%29.svg.png"
 	},
 	{
 		"name": "Sweden",
 		"winners": "0",
 		"runnersUp": "1",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/384px-Flag_of_Sweden.svg.png"
 	},
 	{
 		"name": "Croatia",
 		"winners": "0",
 		"runnersUp": "1",
-		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/23px-Flag_of_Croatia.svg.png"
+		"teamImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/384px-Flag_of_Croatia.svg.png"
 	}
 ]
